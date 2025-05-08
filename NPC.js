@@ -60,6 +60,7 @@ export default class NPC_OldMan {
             "Hello, young adventurer!",
             "This is a dangerous world...",
             "Be careful out there!",
+            "Also, I heard a rumor that a dragon (or whatever the devs choose) lies to the east...",
             "Press ENTER to continue..."
         ];
     }
